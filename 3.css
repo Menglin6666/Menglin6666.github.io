@@ -52,7 +52,7 @@ body {
     height: 20px;
 }
 
-.nav-bar {
+.nav-toumu {
     display: flex;
     background: #4A4B4D;
     padding: 10px 20px;
@@ -83,7 +83,7 @@ body {
     letter-spacing: 2px;
 }
 
-.case-section {
+.case-diannao {
     padding: 30px 0;
     text-align: center;
     background-color: #EEEEEE;
@@ -95,7 +95,7 @@ body {
     background-color: #EEEEEE;
 }
 
-.section-title {
+.zhuti-title {
     text-align: center;
     margin-bottom: 20px;
     border: none; 
@@ -105,7 +105,7 @@ body {
     height: 30px;
 }
 
-.banner-section {
+.banner-zhuti {
     width: 100%;
     padding: 0 5%;
     background-color: #fff;
@@ -119,7 +119,7 @@ body {
     width: 100%;
     height: auto;
 }
-.home-section {
+.home-zhuti {
     background-color: #FFFFFF;
     padding: 30px 20px;
 }
@@ -129,20 +129,20 @@ body {
     height: auto;
 }
 
-.facility-section {
+.facility-jianjietu {
     background-color: #C4D6E4;
     width: 100%;
     padding: 0 5%;
     margin-bottom: 30px;
 }
-.facility-group {
+.jianjietu-group {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
 }
 
-.facility-group img {
+.jianjietu-group img {
     width: 48%;
     height: auto;
 }
